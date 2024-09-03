@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
                     textViewResult.text = convertedAmount.toString()
                 }
                 else{
-
+                        //handle error
                 }
             }
 
